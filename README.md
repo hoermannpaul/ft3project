@@ -1,4 +1,4 @@
-# FT#3 Process Mining Project
+# FT3 Process Mining Project
 
 # Contributors:
 * [Nicole Hölzl](https://github.com/nhoelzl/)
