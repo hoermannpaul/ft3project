@@ -1,0 +1,19 @@
+Case_id,Timestamp,Activity
+1,2021-01-04 21:36:50.238262,executed pre function of component auth_proxy
+1,2021-01-04 21:36:50.338262,executed pre function of component guardia_api
+1,2021-01-04 21:36:50.438262,executed pre function of component email_service
+1,2021-01-04 21:36:50.538262,executed pre function of component indicator_parser
+1,2021-01-04 21:36:50.638262,executed pre function of component worker
+1,2021-01-04 21:36:50.738262,executed pre function of component workflow_engine
+1,2021-01-04 21:36:50.838262,executed pre function of component analytics
+1,2021-01-04 21:36:50.938262,executed pre function of component correlator
+1,2021-01-04 21:36:51.038262,executed pre function of component notification_service
+1,2021-01-04 21:36:51.138262,executed post function of component notification_service
+1,2021-01-04 21:36:52.738262,executed post function of component correlator
+1,2021-01-04 21:36:52.838262,executed post function of component analytics
+1,2021-01-04 21:36:52.938262,executed post function of component workflow_engine
+1,2021-01-04 21:36:53.038262,executed post function of component worker
+1,2021-01-04 21:36:53.138262,executed post function of component indicator_parser
+1,2021-01-04 21:36:53.238262,executed post function of component email_service
+1,2021-01-04 21:36:53.338262,executed post function of component guardia_api
+1,2021-01-04 21:36:53.438262,executed post function of component auth_proxy
