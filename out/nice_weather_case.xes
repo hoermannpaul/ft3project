@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<string key="origin" value="csv" />
+	<trace>
+		<int key="concept:name" value="1" />
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.238262+00:00" />
+			<string key="activity" value="executed pre function of component auth_proxy" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.338262+00:00" />
+			<string key="activity" value="executed pre function of component guardia_api" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.438262+00:00" />
+			<string key="activity" value="executed pre function of component email_service" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.538262+00:00" />
+			<string key="activity" value="executed pre function of component indicator_parser" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.638262+00:00" />
+			<string key="activity" value="executed pre function of component worker" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.738262+00:00" />
+			<string key="activity" value="executed pre function of component workflow_engine" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.838262+00:00" />
+			<string key="activity" value="executed pre function of component analytics" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:50.938262+00:00" />
+			<string key="activity" value="executed pre function of component correlator" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:51.038262+00:00" />
+			<string key="activity" value="executed pre function of component notification_service" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:51.138262+00:00" />
+			<string key="activity" value="executed post function of component notification_service" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:52.738262+00:00" />
+			<string key="activity" value="executed post function of component correlator" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:52.838262+00:00" />
+			<string key="activity" value="executed post function of component analytics" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:52.938262+00:00" />
+			<string key="activity" value="executed post function of component workflow_engine" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:53.038262+00:00" />
+			<string key="activity" value="executed post function of component worker" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:53.138262+00:00" />
+			<string key="activity" value="executed post function of component indicator_parser" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:53.238262+00:00" />
+			<string key="activity" value="executed post function of component email_service" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:53.338262+00:00" />
+			<string key="activity" value="executed post function of component guardia_api" />
+		</event>
+		<event>
+			<int key="case" value="1" />
+			<date key="timestamp" value="2021-01-04T21:36:53.438262+00:00" />
+			<string key="activity" value="executed post function of component auth_proxy" />
+		</event>
+	</trace>
+</log>
