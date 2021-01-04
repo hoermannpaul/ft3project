@@ -1,4 +1,4 @@
-Case_id,Timestamp,Activity
+case,timestamp,activity
 1,2021-01-04 21:36:50.238262,executed pre function of component auth_proxy
 1,2021-01-04 21:36:50.338262,executed pre function of component guardia_api
 1,2021-01-04 21:36:50.438262,executed pre function of component email_service
