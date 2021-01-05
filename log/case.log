@@ -1,4 +1,4 @@
 CASE::Case1::INFO::test case logger
 CASE::hello_world::DEBUG::test log
-CASE::id 1::2021-01-04 21:36:50.936630::count 2::DEBUG::executed pre of component TestComp
-CASE::id 1::2021-01-04 21:36:52.936630::count 3::DEBUG::executed post of component TestComp
+CASE::id 1::2021-01-05 11:37:28.787043::count 2::DEBUG::executed pre of component TestComp
+CASE::id 1::2021-01-05 11:37:30.787043::count 3::DEBUG::executed post of component TestComp
